@@ -4,6 +4,7 @@
 # In[1]:
 
 
+pip install google-api-python-client
 import streamlit as st
 import googleapiclient.discovery
 import pymongo
